@@ -1,4 +1,4 @@
-package DTOs;
+package com.application.splitwise.DTOs;
 import com.application.splitwise.models.Member;
 import lombok.Data;
 

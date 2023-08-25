@@ -1,7 +1,7 @@
 package com.application.splitwise.Controllers;
 
 
-import DTOs.AddExpenseRequestResource;
+import com.application.splitwise.DTOs.AddExpenseRequestResource;
 import com.application.splitwise.Services.ExpenseActionService;
 import com.application.splitwise.models.SettleUpSummaryResource;
 import org.springframework.beans.factory.annotation.Autowired;

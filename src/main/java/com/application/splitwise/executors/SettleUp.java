@@ -1,7 +1,7 @@
 package com.application.splitwise.executors;
 
 
-import DTOs.AddExpenseRequestResource;
+import com.application.splitwise.DTOs.AddExpenseRequestResource;
 import com.application.splitwise.Config.ScannerConfig;
 import com.application.splitwise.Controllers.UserActionController;
 import com.application.splitwise.Repository.GroupRepository;
